@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.9.12)  1 NOV 2012 10:23
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.9.12)  1 NOV 2012 10:19
 entering extended mode
-**C:/Users/owner/Documents/hhua110242012.git/bmw1Series.tex
-(C:/Users/owner/Documents/hhua110242012.git/bmw1Series.tex
+**C:/Users/owner/Documents/hhua110242012.git/filetex.tex
+(C:/Users/owner/Documents/hhua110242012.git/filetex.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -330,7 +330,7 @@ Package: preview 2010/02/14 11.86 (AUCTeX/preview-latex)
 \pr@snippet=\count107
 \pr@box=\box36
 \pr@output=\toks24
-) (C:\Users\owner\Documents\hhua110242012.git\bmw1Series.aux)
+) (C:\Users\owner\Documents\hhua110242012.git\filetex.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
@@ -361,27 +361,26 @@ ontext\base\supp-pdf.mkii"
 Preview: Fontsize 10pt
 Preview: PDFoutput 1
 
-Overfull \hbox (160.89pt too wide) in paragraph at lines 105--105
+Overfull \hbox (160.89pt too wide) in paragraph at lines 284--284
 [][] 
  []
 
 Preview: Tightpage 0 0 0 0
 [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 Non-PDF special ignored!
-Non-PDF special ignored!] (C:\Users\owner\Documents\hhua110242012.git\bmw1Serie
-s.aux) ) 
+Non-PDF special ignored!] (C:\Users\owner\Documents\hhua110242012.git\filetex.a
+ux) ) 
 Here is how much of TeX's memory you used:
- 9551 strings out of 494045
- 184342 string characters out of 3145969
- 216598 words of memory out of 3000000
- 12694 multiletter control sequences out of 15000+200000
+ 9730 strings out of 494045
+ 187879 string characters out of 3145969
+ 247368 words of memory out of 3000000
+ 12873 multiletter control sequences out of 15000+200000
  3808 words of font info for 15 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 56i,7n,55p,444b,649s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10
-.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.p
-fb>
-Output written on bmw1Series.pdf (1 page, 22928 bytes).
+ 56i,7n,55p,441b,649s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pf
+b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on filetex.pdf (1 page, 29831 bytes).
 PDF statistics:
  17 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
