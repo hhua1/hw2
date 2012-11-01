@@ -6,11 +6,10 @@ xbeg=LRrange[1]
 xend=LRrange[2]
 xval=seq(xbeg,xend,length=nsample)
 yval=fcnname(xval)
-plot(xval,yval,type="l",xlab ="x", ylab="dnorm(x)")  
+plot(xval,yval,type="l",xlab="\\verb+x+", ylab="\\verb+dnorm(x)+")  
 dev.off()
 
 
-if(compile)
-tools::texi2pdf(outputtexfile)
+if(compile) tools::texi2pdf(outputtexfile)
 
 }
