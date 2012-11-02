@@ -1,5 +1,5 @@
-\name{Problem 1}
-\alias{Homeworkset 2}
+\name{problem1}
+\alias{problem1}
 \title{Problem 1}
 \description{This function compiled to generated a "line" plot of standard normal density(ie., dnorm) over the user defined interval. PDF file is gernerated containing that plot.}
 \usage{

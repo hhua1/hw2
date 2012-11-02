@@ -1,5 +1,5 @@
-\name{Problem 2}
-\alias{Homeworkset 2}
+\name{problem2}
+\alias{problem2}
 \docType{data}
 \title{
 Medal Count For Winter Olympics 2011}
