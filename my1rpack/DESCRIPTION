@@ -1,8 +1,9 @@
 Package: my1rpack
-Type:package
+Type: Package
 Title: My First R Package
 Version:1.0
 Date:2012-10-24
+Depends: tikzDevice
 Author: Hua Hua
 Maintainer:Hua Hua <hhua1@jhu.edu>
 Description: This R package contains 1 function and 1 dataset

@@ -3,7 +3,7 @@
 \docType{data}
 \title{
 Medal Count For Winter Olympics 2011}
-\description{
+\description{medal counts
 %%  ~~ A concise (1-5 lines) description of the dataset. ~~
 }
 \usage{data(problem2)}

@@ -1,9 +1,9 @@
 \name{problem1}
 \alias{problem1}
-\title{Problem 1}
+\title{Solution to Problem1}
 \description{This function compiled to generated a "line" plot of standard normal density(ie., dnorm) over the user defined interval. PDF file is gernerated containing that plot.}
 \usage{
-function(filename,fcnname,LRrange,nsample,compile)
+problem1(filename,fcnname,LRrange,nsample,compile)
 }
 
 \arguments{
@@ -13,13 +13,17 @@ function(filename,fcnname,LRrange,nsample,compile)
   \item{nsample}{size of the sample}
   \item{compile}{generate a pdf file if TRUE(1) value is passed to this variable}
 }
+
 \value{This function returns no values}
+
 \author{Hua Hua email:hhua1@jhu.edu}
+
 \note{This function is the solution to the problem1 of homeworkset2 of class 550400}
 
 \examples{
 require(tikzDevice)
+require(my1rpack)
 YesNo<-1
-problem1('bmw1Series',dnorm,c(-5,5),10,YesNo) 
-
+problem1
+%problem1('bmw1Series',dnorm,c(-5,5),10,YesNo) 
 }
